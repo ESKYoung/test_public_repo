@@ -39,7 +39,7 @@ We will use the following definitions:
 5. Only develop on your own `origin` feature branch;
    * **Do not** develop a feature branch that is not yours without explicit permission from the owner.
 6. Feature branches should come off `origin` `master`, and never be created in `public`;
-7. [Raise PRs on `origin` only](#raising-pull-requests-on-the-public-git-repository), and **do not make history
+7. [Raise PRs on `public` only](#raising-pull-requests-on-the-public-git-repository), and **do not make history
 rewriting changes to these commits**
    * Try to make any further commits in `origin` only.
 
